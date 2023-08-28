@@ -1,4 +1,4 @@
-<h2 align="center"> Hi 👋, I'm Hargunpal Singh, </a> a pre-final year Computer Science Student</h2>
+<h2 align="center"> Hi 👋, I'm Hargunpal Singh, </a>final year Computer Science Student</h2>
 <h3 align="center">A Passionate Coder, a FrontEnd Developer and soon to be a BackEnd. </h3>
 
 #### 
@@ -6,7 +6,7 @@
 - I am a Senior doing Computer Science and Engineering from GNDEC Ludhiana 🏛️. I am passionate about Frontend development 🚀 and Open Source Contribution 💻. My areas of interest includes Web Design and Development, Database Management and Competitive Coding. I am a curious person who wants to explore every tech stack 💡 .                                           
 My goal is to solve real life problems using technology and create an impact ✨.
 
-- 🔷 Currently, I am Actively Looking Full Time position roles in Tech beginning in July 2023.
+- 🔷 Currently, I am Actively Looking Full Time position roles in Tech.
 
 - 📓 You can soon find my Resume
 
